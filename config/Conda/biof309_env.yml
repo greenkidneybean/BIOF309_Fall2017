@@ -1,6 +1,6 @@
 name: biof309
 channels:
--
+- conda-forge
 - r
 - anaconda
 - defaults
